@@ -1,0 +1,22 @@
+.DS_Store
+out/
+node_modules/
+*.vsix
+package-lock.json
+
+# 环境变量和配置
+.env
+.env.local
+.env.*
+
+# IDE 配置
+.vscode/settings.json
+.idea/
+
+# 日志文件
+*.log
+npm-debug.log*
+
+# 临时文件
+*.tmp
+*.temp
